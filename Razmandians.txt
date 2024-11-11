@@ -1,6 +1,1 @@
-socks://bnVsbDpudWxs@0.0.0.0:100#%F0%9F%94%84%2BUpdate%2Bsubscription%2Bdaily
-ss://bm9uZTpudWxs@0.0.0.0:100#%F0%9F%92%8E%D8%B3%D8%B1%D9%88%D8%B1%2B%D9%87%D8%A7%DB%8C%2B%D8%A7%D8%B5%D9%84%DB%8C%D9%85%2B%7C%2BMy%2Bmain%2Bservers%F0%9F%92%8E
-vless://c624c832-10d3-11ee-9796-d92252a04d63@sw37.yproloader.com:11581?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.mihanwebhost.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%2BSW-1380-Reza%20Ghahramani
-ss://bm9uZTpudWxs@0.0.0.0:100#%F0%9F%92%8E%D8%B3%D8%B1%D9%88%D8%B1%2B%D9%87%D8%A7%2B%D8%AF%D8%B1%2B%D8%B2%D9%85%D8%A7%D9%86%2B%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF%2B%D8%B4%D8%AF%DB%8C%D8%AF%2B%D8%B1%D9%88%D8%B4%D9%86%2B%D9%85%DB%8C%D8%B4%D9%88%D9%86%D8%AF%2B%F0%9F%92%8E
-ss://bm9uZTpudWxs@0.0.0.0:100#%F0%9F%93%8C%D8%B3%D8%B1%D9%88%D8%B1%2B%D9%87%D8%A7%DB%8C%2B%D9%85%D9%88%D9%82%D8%AA%2B%7C%2BTemporary%2Bservers
-ss://bm9uZTpudWxs@0.0.0.0:100#%F0%9F%93%85%2BUpdate%2Bdate%2B%3A%2B1403-08-13%2B%7C%2B72%2BHours
+
